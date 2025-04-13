@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+easyocr
+google-generativeai
+opencv-python-headless  # Use headless to avoid GUI dependencies
+numpy
